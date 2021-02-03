@@ -8,9 +8,6 @@ ${instagram}
 \`\`\`SUBSCRIBE😁\`\`\`
 ${yt}
 
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
-
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
@@ -329,10 +326,10 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭─────「 *SUPPORT ${name}* 」
 │
-├➲ *O BOT*
-├➲ *M. HADI FIRMANSYA*
-├➲ *DELIA AULIA*
-├➲ *KEVIN DAVID*
+├➲ *FAJAR ALFARIZI*
+├➲ *DEBBY*
+├➲ *FALAH*
+├➲ *LIA*
 ╰────────────────────────`
 }
 exports.help = help
